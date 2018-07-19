@@ -1,0 +1,10 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\bin\Debug\CheckBoxRadioButtonForm.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\bin\Debug\CheckBoxRadioButtonForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\bin\Debug\CheckBoxRadioButtonForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\obj\Debug\CheckBoxRadioButtonForm.CheckBoxRadioButtonForm.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\obj\Debug\CheckBoxRadioButtonForm.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\obj\Debug\CheckBoxRadioButtonForm.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\obj\Debug\CheckBoxRadioButtonForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\obj\Debug\CheckBoxRadioButtonForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\obj\Debug\CheckBoxRadioButtonForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckBoxRadioButtonForm\obj\Debug\CheckBoxRadioButtonForm.csprojResolveAssemblyReference.cache

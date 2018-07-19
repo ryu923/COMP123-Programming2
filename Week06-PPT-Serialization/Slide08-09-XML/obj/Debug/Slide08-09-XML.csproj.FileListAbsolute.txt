@@ -1,0 +1,16 @@
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\Slide08-09-XML.exe.config
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\Slide08-09-XML.exe
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\Slide08-09-XML.pdb
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\StudentLib.dll
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\StudentLib.pdb
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\Slide08-09-XML\obj\Debug\Slide08-09-XML.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\Slide08-09-XML\obj\Debug\Slide08-09-XML.exe
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\Slide08-09-XML\obj\Debug\Slide08-09-XML.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\Slide08-09-XML.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\Slide08-09-XML\obj\Debug\Slide08-09-XML.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\Slide08-09-XML\obj\Debug\Slide08-09-XML.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\Slide08-09-XML.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\Slide08-09-XML.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\StudentLib.dll
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\Slide08-09-XML\bin\Debug\StudentLib.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\Slide08-09-XML\obj\Debug\Slide08-09-XML.csprojResolveAssemblyReference.cache

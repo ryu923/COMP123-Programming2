@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>David Ryu</Name>
+    <StudentNumber>1000</StudentNumber>
+    <Domestic>true</Domestic>
+  </Student>
+  <Student>
+    <Name>Candice Cho</Name>
+    <StudentNumber>1001</StudentNumber>
+    <Domestic>true</Domestic>
+  </Student>
+  <Student>
+    <Name>Micahel Jordan</Name>
+    <StudentNumber>1002</StudentNumber>
+    <Domestic>true</Domestic>
+  </Student>
+</ArrayOfStudent>

@@ -1,0 +1,4 @@
+510 Gordon Cooper 647-123-9870 $78.00 (Delivery)
+511 Valery Bykovsky 647-123-3219 $0.00 (Pickup)
+512 Valentina Tereshkova 647-123-8790 $45.00 (Pickup)
+513 Joseph Walker 647-123-0843 $76.00 (Delivery)

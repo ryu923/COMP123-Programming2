@@ -1,0 +1,10 @@
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\StudentLib\bin\Debug\StudentLib.dll
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\StudentLib\bin\Debug\StudentLib.pdb
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\StudentLib\obj\Debug\StudentLib.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\StudentLib\obj\Debug\StudentLib.dll
+C:\Users\Ryu\Desktop\Week06-PPT-Serialization\StudentLib\obj\Debug\StudentLib.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\StudentLib\bin\Debug\StudentLib.dll
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\StudentLib\bin\Debug\StudentLib.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\StudentLib\obj\Debug\StudentLib.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\StudentLib\obj\Debug\StudentLib.dll
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-Serialization\StudentLib\obj\Debug\StudentLib.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ryu\Desktop\Week04-Assignment02\Tweet\bin\Debug\Tweet.exe.config
+C:\Users\Ryu\Desktop\Week04-Assignment02\Tweet\bin\Debug\Tweet.exe
+C:\Users\Ryu\Desktop\Week04-Assignment02\Tweet\bin\Debug\Tweet.pdb
+C:\Users\Ryu\Desktop\Week04-Assignment02\Tweet\obj\Debug\Tweet.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week04-Assignment02\Tweet\obj\Debug\Tweet.exe
+C:\Users\Ryu\Desktop\Week04-Assignment02\Tweet\obj\Debug\Tweet.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week04-Assignment02\Tweet\bin\Debug\Tweet.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week04-Assignment02\Tweet\obj\Debug\Tweet.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week04-Assignment02\Tweet\obj\Debug\Tweet.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week04-Assignment02\Tweet\bin\Debug\Tweet.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week04-Assignment02\Tweet\bin\Debug\Tweet.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week04-Assignment02\Tweet\obj\Debug\Tweet.csprojResolveAssemblyReference.cache

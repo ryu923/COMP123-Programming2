@@ -1,0 +1,9 @@
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\ArrayAndList\bin\Debug\ArrayAndList.exe.config
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\ArrayAndList\bin\Debug\ArrayAndList.exe
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\ArrayAndList\bin\Debug\ArrayAndList.pdb
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\ArrayAndList\obj\Debug\ArrayAndList.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\ArrayAndList\obj\Debug\ArrayAndList.exe
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\ArrayAndList\obj\Debug\ArrayAndList.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise01\ArrayAndList\bin\Debug\ArrayAndList.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise01\ArrayAndList\obj\Debug\ArrayAndList.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise01\ArrayAndList\obj\Debug\ArrayAndList.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ryu\Desktop\Week02-Assignment01Review\GCD\bin\Debug\GCD.exe.config
+C:\Users\Ryu\Desktop\Week02-Assignment01Review\GCD\bin\Debug\GCD.exe
+C:\Users\Ryu\Desktop\Week02-Assignment01Review\GCD\bin\Debug\GCD.pdb
+C:\Users\Ryu\Desktop\Week02-Assignment01Review\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week02-Assignment01Review\GCD\obj\Debug\GCD.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week02-Assignment01Review\GCD\obj\Debug\GCD.exe
+C:\Users\Ryu\Desktop\Week02-Assignment01Review\GCD\obj\Debug\GCD.pdb

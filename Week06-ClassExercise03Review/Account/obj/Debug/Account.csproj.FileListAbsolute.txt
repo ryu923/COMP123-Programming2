@@ -1,0 +1,7 @@
+C:\Users\Ryu\Desktop\Week06-ClassExercise03Review\Account\bin\Debug\Account.exe.config
+C:\Users\Ryu\Desktop\Week06-ClassExercise03Review\Account\bin\Debug\Account.exe
+C:\Users\Ryu\Desktop\Week06-ClassExercise03Review\Account\bin\Debug\Account.pdb
+C:\Users\Ryu\Desktop\Week06-ClassExercise03Review\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week06-ClassExercise03Review\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week06-ClassExercise03Review\Account\obj\Debug\Account.exe
+C:\Users\Ryu\Desktop\Week06-ClassExercise03Review\Account\obj\Debug\Account.pdb

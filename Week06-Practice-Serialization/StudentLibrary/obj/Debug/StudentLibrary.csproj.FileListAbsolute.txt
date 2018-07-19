@@ -1,0 +1,10 @@
+C:\Users\Ryu\Desktop\Week06-Practice-Serialization\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\Ryu\Desktop\Week06-Practice-Serialization\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\Ryu\Desktop\Week06-Practice-Serialization\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week06-Practice-Serialization\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\Ryu\Desktop\Week06-Practice-Serialization\StudentLibrary\obj\Debug\StudentLibrary.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-Practice-Serialization\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-Practice-Serialization\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-Practice-Serialization\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-Practice-Serialization\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-Practice-Serialization\StudentLibrary\obj\Debug\StudentLibrary.pdb

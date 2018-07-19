@@ -1,0 +1,8 @@
+C:\Users\Ryu\Desktop\Week02-PPT-Class\Slide15\bin\Debug\Slide15.exe.config
+C:\Users\Ryu\Desktop\Week02-PPT-Class\Slide15\bin\Debug\Slide15.exe
+C:\Users\Ryu\Desktop\Week02-PPT-Class\Slide15\bin\Debug\Slide15.pdb
+C:\Users\Ryu\Desktop\Week02-PPT-Class\Slide15\obj\Debug\Slide15.exe
+C:\Users\Ryu\Desktop\Week02-PPT-Class\Slide15\obj\Debug\Slide15.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-PPT-Class\Slide15\bin\Debug\Slide15.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-PPT-Class\Slide15\obj\Debug\Slide15.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-PPT-Class\Slide15\obj\Debug\Slide15.pdb

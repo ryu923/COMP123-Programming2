@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide19-27\bin\Debug\Slide19-27.exe.config
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide19-27\bin\Debug\Slide19-27.exe
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide19-27\bin\Debug\Slide19-27.pdb
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide19-27\obj\Debug\Slide19-27.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide19-27\obj\Debug\Slide19-27.exe
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide19-27\obj\Debug\Slide19-27.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ryu\Desktop\Week02-ClassExercise03\Medal\bin\Debug\Medal.exe.config
+C:\Users\Ryu\Desktop\Week02-ClassExercise03\Medal\bin\Debug\Medal.exe
+C:\Users\Ryu\Desktop\Week02-ClassExercise03\Medal\bin\Debug\Medal.pdb
+C:\Users\Ryu\Desktop\Week02-ClassExercise03\Medal\obj\Debug\Medal.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week02-ClassExercise03\Medal\obj\Debug\Medal.exe
+C:\Users\Ryu\Desktop\Week02-ClassExercise03\Medal\obj\Debug\Medal.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise03\Medal\bin\Debug\Medal.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise03\Medal\obj\Debug\Medal.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise03\Medal\obj\Debug\Medal.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise03\Medal\bin\Debug\Medal.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise03\Medal\bin\Debug\Medal.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise03\Medal\obj\Debug\Medal.csprojResolveAssemblyReference.cache

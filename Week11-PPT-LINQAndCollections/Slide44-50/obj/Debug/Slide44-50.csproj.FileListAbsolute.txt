@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide44-50\bin\Debug\Slide44-50.exe.config
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide44-50\bin\Debug\Slide44-50.exe
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide44-50\bin\Debug\Slide44-50.pdb
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide44-50\obj\Debug\Slide44-50.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide44-50\obj\Debug\Slide44-50.exe
+C:\Users\Ryu\Desktop\Week11-PPT-LINQAndCollections\Slide44-50\obj\Debug\Slide44-50.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\bin\Debug\CheckListBoxForm.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\bin\Debug\CheckListBoxForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\bin\Debug\CheckListBoxForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\obj\Debug\CheckListBoxForm.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\obj\Debug\CheckListBoxForm.Form1.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\obj\Debug\CheckListBoxForm.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\obj\Debug\CheckListBoxForm.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\obj\Debug\CheckListBoxForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\obj\Debug\CheckListBoxForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CheckListBoxForm\obj\Debug\CheckListBoxForm.pdb

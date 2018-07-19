@@ -1,0 +1,10 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\bin\Debug\CalandarForm.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\bin\Debug\CalandarForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\bin\Debug\CalandarForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\obj\Debug\CalandarForm.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\obj\Debug\CalandarForm.Form1.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\obj\Debug\CalandarForm.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\obj\Debug\CalandarForm.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\obj\Debug\CalandarForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\obj\Debug\CalandarForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\CalandarForm\obj\Debug\CalandarForm.pdb

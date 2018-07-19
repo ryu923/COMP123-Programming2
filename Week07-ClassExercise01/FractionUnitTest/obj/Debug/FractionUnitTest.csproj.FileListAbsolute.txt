@@ -1,0 +1,14 @@
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\obj\Debug\FractionUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\obj\Debug\FractionUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\bin\Debug\FractionUnitTest.dll
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\bin\Debug\FractionUnitTest.pdb
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\obj\Debug\FractionUnitTest.csproj.CopyComplete
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\obj\Debug\FractionUnitTest.dll
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionUnitTest\obj\Debug\FractionUnitTest.pdb

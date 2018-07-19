@@ -1,0 +1,13 @@
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\bin\Debug\XMLSerialization.exe
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\bin\Debug\XMLSerialization.pdb
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\bin\Debug\StudentLibrary.dll
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\bin\Debug\StudentLibrary.pdb
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\obj\Debug\XMLSerialization.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\obj\Debug\XMLSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\obj\Debug\XMLSerialization.csproj.CopyComplete
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\obj\Debug\XMLSerialization.exe
+C:\Users\Ryu\Desktop\Week06-PPT-SerializationReview\XMLSerialization\obj\Debug\XMLSerialization.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-SerializationReview\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-SerializationReview\XMLSerialization\obj\Debug\XMLSerialization.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-PPT-SerializationReview\XMLSerialization\obj\Debug\XMLSerialization.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\bin\Debug\AnchorDockPaddingForm.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\bin\Debug\AnchorDockPaddingForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\bin\Debug\AnchorDockPaddingForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\obj\Debug\AnchorDockPaddingForm.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\obj\Debug\AnchorDockPaddingForm.Form1.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\obj\Debug\AnchorDockPaddingForm.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\obj\Debug\AnchorDockPaddingForm.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\obj\Debug\AnchorDockPaddingForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\obj\Debug\AnchorDockPaddingForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\AnchorDockPaddingForm\obj\Debug\AnchorDockPaddingForm.pdb

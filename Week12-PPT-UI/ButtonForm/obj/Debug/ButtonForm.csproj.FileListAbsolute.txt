@@ -1,0 +1,9 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ButtonForm\bin\Debug\ButtonForm.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ButtonForm\bin\Debug\ButtonForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ButtonForm\bin\Debug\ButtonForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ButtonForm\obj\Debug\ButtonForm.ButtonForm.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ButtonForm\obj\Debug\ButtonForm.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ButtonForm\obj\Debug\ButtonForm.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ButtonForm\obj\Debug\ButtonForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ButtonForm\obj\Debug\ButtonForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ButtonForm\obj\Debug\ButtonForm.pdb

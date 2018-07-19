@@ -1,0 +1,7 @@
+C:\Users\Ryu\Desktop\Week02-ClassExercise03Review\Medal\bin\Debug\Medal.exe.config
+C:\Users\Ryu\Desktop\Week02-ClassExercise03Review\Medal\bin\Debug\Medal.exe
+C:\Users\Ryu\Desktop\Week02-ClassExercise03Review\Medal\bin\Debug\Medal.pdb
+C:\Users\Ryu\Desktop\Week02-ClassExercise03Review\Medal\obj\Debug\Medal.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week02-ClassExercise03Review\Medal\obj\Debug\Medal.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week02-ClassExercise03Review\Medal\obj\Debug\Medal.exe
+C:\Users\Ryu\Desktop\Week02-ClassExercise03Review\Medal\obj\Debug\Medal.pdb

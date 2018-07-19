@@ -1,0 +1,9 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\MenuStrip\bin\Debug\MenuStrip.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\MenuStrip\bin\Debug\MenuStrip.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\MenuStrip\bin\Debug\MenuStrip.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\MenuStrip\obj\Debug\MenuStrip.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\MenuStrip\obj\Debug\MenuStrip.pdb

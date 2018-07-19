@@ -1,0 +1,9 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PictureBoxForm\bin\Debug\PictureBoxForm.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PictureBoxForm\bin\Debug\PictureBoxForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PictureBoxForm\bin\Debug\PictureBoxForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PictureBoxForm\obj\Debug\PictureBoxForm.PictureBoxForm.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PictureBoxForm\obj\Debug\PictureBoxForm.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PictureBoxForm\obj\Debug\PictureBoxForm.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PictureBoxForm\obj\Debug\PictureBoxForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PictureBoxForm\obj\Debug\PictureBoxForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PictureBoxForm\obj\Debug\PictureBoxForm.pdb

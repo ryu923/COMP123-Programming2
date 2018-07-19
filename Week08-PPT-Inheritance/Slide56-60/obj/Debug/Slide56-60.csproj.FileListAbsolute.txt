@@ -1,0 +1,7 @@
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide56-60\bin\Debug\Slide56-60.exe.config
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide56-60\bin\Debug\Slide56-60.exe
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide56-60\bin\Debug\Slide56-60.pdb
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide56-60\obj\Debug\Slide56-60.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide56-60\obj\Debug\Slide56-60.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide56-60\obj\Debug\Slide56-60.exe
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide56-60\obj\Debug\Slide56-60.pdb

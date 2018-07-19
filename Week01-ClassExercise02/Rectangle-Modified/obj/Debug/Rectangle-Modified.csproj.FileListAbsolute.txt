@@ -1,0 +1,5 @@
+C:\Users\Ryu\Desktop\Week01-ClassExercise02\Rectangle-Modified\bin\Debug\Rectangle-Modified.exe.config
+C:\Users\Ryu\Desktop\Week01-ClassExercise02\Rectangle-Modified\bin\Debug\Rectangle-Modified.exe
+C:\Users\Ryu\Desktop\Week01-ClassExercise02\Rectangle-Modified\bin\Debug\Rectangle-Modified.pdb
+C:\Users\Ryu\Desktop\Week01-ClassExercise02\Rectangle-Modified\obj\Debug\Rectangle-Modified.exe
+C:\Users\Ryu\Desktop\Week01-ClassExercise02\Rectangle-Modified\obj\Debug\Rectangle-Modified.pdb

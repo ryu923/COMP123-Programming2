@@ -1,0 +1,8 @@
+C:\Users\Ryu\Desktop\Week06-ClassExercise03\Account\bin\Debug\Account.exe.config
+C:\Users\Ryu\Desktop\Week06-ClassExercise03\Account\bin\Debug\Account.exe
+C:\Users\Ryu\Desktop\Week06-ClassExercise03\Account\bin\Debug\Account.pdb
+C:\Users\Ryu\Desktop\Week06-ClassExercise03\Account\obj\Debug\Account.exe
+C:\Users\Ryu\Desktop\Week06-ClassExercise03\Account\obj\Debug\Account.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-ClassExercise03\Account\bin\Debug\Account.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-ClassExercise03\Account\obj\Debug\Account.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week06-ClassExercise03\Account\obj\Debug\Account.pdb

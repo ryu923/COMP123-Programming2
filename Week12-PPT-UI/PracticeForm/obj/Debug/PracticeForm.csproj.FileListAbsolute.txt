@@ -1,0 +1,10 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\bin\Debug\PracticeForm.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\bin\Debug\PracticeForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\bin\Debug\PracticeForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\obj\Debug\PracticeForm.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\obj\Debug\PracticeForm.Form1.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\obj\Debug\PracticeForm.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\obj\Debug\PracticeForm.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\obj\Debug\PracticeForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\obj\Debug\PracticeForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\PracticeForm\obj\Debug\PracticeForm.pdb

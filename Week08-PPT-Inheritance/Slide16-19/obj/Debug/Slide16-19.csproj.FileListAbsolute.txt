@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide16-19\bin\Debug\Slide16-19.exe.config
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide16-19\bin\Debug\Slide16-19.exe
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide16-19\bin\Debug\Slide16-19.pdb
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide16-19\obj\Debug\Slide16-19.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide16-19\obj\Debug\Slide16-19.exe
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide16-19\obj\Debug\Slide16-19.pdb

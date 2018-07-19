@@ -1,0 +1,7 @@
+C:\Users\Ryu\source\repos\Week06-ClassExercise04Review\Course\bin\Debug\Course.exe.config
+C:\Users\Ryu\source\repos\Week06-ClassExercise04Review\Course\bin\Debug\Course.exe
+C:\Users\Ryu\source\repos\Week06-ClassExercise04Review\Course\bin\Debug\Course.pdb
+C:\Users\Ryu\source\repos\Week06-ClassExercise04Review\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\source\repos\Week06-ClassExercise04Review\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\source\repos\Week06-ClassExercise04Review\Course\obj\Debug\Course.exe
+C:\Users\Ryu\source\repos\Week06-ClassExercise04Review\Course\obj\Debug\Course.pdb

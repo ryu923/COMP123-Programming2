@@ -1,0 +1,7 @@
+C:\Users\Ryu\Desktop\Week01-PPT-TypesReview\Slide05\bin\Debug\Slide05.exe.config
+C:\Users\Ryu\Desktop\Week01-PPT-TypesReview\Slide05\bin\Debug\Slide05.exe
+C:\Users\Ryu\Desktop\Week01-PPT-TypesReview\Slide05\bin\Debug\Slide05.pdb
+C:\Users\Ryu\Desktop\Week01-PPT-TypesReview\Slide05\obj\Debug\Slide05.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week01-PPT-TypesReview\Slide05\obj\Debug\Slide05.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week01-PPT-TypesReview\Slide05\obj\Debug\Slide05.exe
+C:\Users\Ryu\Desktop\Week01-PPT-TypesReview\Slide05\obj\Debug\Slide05.pdb

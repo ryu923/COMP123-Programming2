@@ -1,0 +1,10 @@
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\obj\Debug\Calculator.exe
+C:\Users\Ryu\Desktop\Week13-ClassExercise01\Calculator\obj\Debug\Calculator.pdb

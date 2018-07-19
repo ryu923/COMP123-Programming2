@@ -1,0 +1,7 @@
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide50-53\bin\Debug\Slide50-53.exe.config
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide50-53\bin\Debug\Slide50-53.exe
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide50-53\bin\Debug\Slide50-53.pdb
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide50-53\obj\Debug\Slide50-53.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide50-53\obj\Debug\Slide50-53.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide50-53\obj\Debug\Slide50-53.exe
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide50-53\obj\Debug\Slide50-53.pdb

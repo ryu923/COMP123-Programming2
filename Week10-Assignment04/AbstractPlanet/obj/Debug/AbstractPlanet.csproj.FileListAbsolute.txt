@@ -1,0 +1,7 @@
+C:\Users\Ryu\Desktop\Week10-Assignment04\AbstractPlanet\obj\Debug\AbstractPlanet.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week10-Assignment04\AbstractPlanet\obj\Debug\AbstractPlanet.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week10-Assignment04\AbstractPlanet\bin\Debug\AbstractPlanet.exe.config
+C:\Users\Ryu\Desktop\Week10-Assignment04\AbstractPlanet\bin\Debug\AbstractPlanet.exe
+C:\Users\Ryu\Desktop\Week10-Assignment04\AbstractPlanet\bin\Debug\AbstractPlanet.pdb
+C:\Users\Ryu\Desktop\Week10-Assignment04\AbstractPlanet\obj\Debug\AbstractPlanet.exe
+C:\Users\Ryu\Desktop\Week10-Assignment04\AbstractPlanet\obj\Debug\AbstractPlanet.pdb

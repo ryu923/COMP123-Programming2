@@ -1,0 +1,9 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\LinkForm\bin\Debug\LinkForm.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\LinkForm\bin\Debug\LinkForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\LinkForm\bin\Debug\LinkForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\LinkForm\obj\Debug\LinkForm.LinkForm.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\LinkForm\obj\Debug\LinkForm.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\LinkForm\obj\Debug\LinkForm.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\LinkForm\obj\Debug\LinkForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\LinkForm\obj\Debug\LinkForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\LinkForm\obj\Debug\LinkForm.pdb

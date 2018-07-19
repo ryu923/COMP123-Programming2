@@ -1,0 +1,2 @@
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionLibrary\obj\Debug\FractionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week07-ClassExercise01\FractionLibrary\obj\Debug\FractionLibrary.csproj.CoreCompileInputs.cache

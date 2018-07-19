@@ -1,0 +1,10 @@
+C:\Users\Ryu\Desktop\Test1-Customer\Customer\bin\Debug\Customer.exe.config
+C:\Users\Ryu\Desktop\Test1-Customer\Customer\bin\Debug\Customer.exe
+C:\Users\Ryu\Desktop\Test1-Customer\Customer\bin\Debug\Customer.pdb
+C:\Users\Ryu\Desktop\Test1-Customer\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Test1-Customer\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Test1-Customer\Customer\obj\Debug\Customer.exe
+C:\Users\Ryu\Desktop\Test1-Customer\Customer\obj\Debug\Customer.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Test1\Test1 Qustions\Customer\Test1-Customer\Customer\bin\Debug\Customer.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Test1\Test1 Qustions\Customer\Test1-Customer\Customer\obj\Debug\Customer.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Test1\Test1 Qustions\Customer\Test1-Customer\Customer\obj\Debug\Customer.pdb

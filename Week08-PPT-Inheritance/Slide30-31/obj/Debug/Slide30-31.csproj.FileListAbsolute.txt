@@ -1,0 +1,6 @@
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide30-31\bin\Debug\Slide30-31.exe.config
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide30-31\bin\Debug\Slide30-31.exe
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide30-31\bin\Debug\Slide30-31.pdb
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide30-31\obj\Debug\Slide30-31.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide30-31\obj\Debug\Slide30-31.exe
+C:\Users\Ryu\Desktop\Week08-PPT-Inheritance\Slide30-31\obj\Debug\Slide30-31.pdb

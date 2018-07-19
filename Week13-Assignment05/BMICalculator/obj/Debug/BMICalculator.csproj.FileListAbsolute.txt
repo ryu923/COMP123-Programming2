@@ -1,0 +1,11 @@
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\obj\Debug\BMICalculator.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\obj\Debug\BMICalculator.BMICalculator.resources
+C:\Users\Ryu\Desktop\Week13-Assignment05\BMICalculator\obj\Debug\BMICalculator.Splash.resources

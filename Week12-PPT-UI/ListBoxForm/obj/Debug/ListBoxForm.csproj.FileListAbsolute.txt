@@ -1,0 +1,9 @@
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ListBoxForm\bin\Debug\ListBoxForm.exe.config
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ListBoxForm\bin\Debug\ListBoxForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ListBoxForm\bin\Debug\ListBoxForm.pdb
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ListBoxForm\obj\Debug\ListBoxForm.ListBoxForm.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ListBoxForm\obj\Debug\ListBoxForm.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ListBoxForm\obj\Debug\ListBoxForm.csproj.GenerateResource.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ListBoxForm\obj\Debug\ListBoxForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ListBoxForm\obj\Debug\ListBoxForm.exe
+C:\Users\Ryu\Desktop\Week12-PPT-UI\ListBoxForm\obj\Debug\ListBoxForm.pdb

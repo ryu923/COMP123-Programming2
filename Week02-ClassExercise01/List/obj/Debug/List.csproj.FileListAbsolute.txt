@@ -1,0 +1,9 @@
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\List\bin\Debug\List.exe.config
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\List\bin\Debug\List.exe
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\List\bin\Debug\List.pdb
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\List\obj\Debug\List.exe
+C:\Users\Ryu\Desktop\Week02-ClassExercise01\List\obj\Debug\List.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise01\List\bin\Debug\List.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise01\List\obj\Debug\List.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\SETAS Final Review\2-2. COMP-123 Programming 2\Solutions\Week02-ClassExercise01\List\obj\Debug\List.pdb

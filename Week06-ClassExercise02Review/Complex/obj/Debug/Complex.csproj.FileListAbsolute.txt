@@ -1,0 +1,7 @@
+C:\Users\Ryu\Desktop\Week06-ClassExercise02Review\Complex\bin\Debug\Complex.exe.config
+C:\Users\Ryu\Desktop\Week06-ClassExercise02Review\Complex\bin\Debug\Complex.exe
+C:\Users\Ryu\Desktop\Week06-ClassExercise02Review\Complex\bin\Debug\Complex.pdb
+C:\Users\Ryu\Desktop\Week06-ClassExercise02Review\Complex\obj\Debug\Complex.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week06-ClassExercise02Review\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+C:\Users\Ryu\Desktop\Week06-ClassExercise02Review\Complex\obj\Debug\Complex.exe
+C:\Users\Ryu\Desktop\Week06-ClassExercise02Review\Complex\obj\Debug\Complex.pdb
